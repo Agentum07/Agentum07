@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Abhi, CS Undergraduate student at National University of Singapore! I have just gotten into ML and Data Science and am learning the basics right now.
+If you have any datasets/advice for me on how to practice, drop me an email or text me at [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/)
