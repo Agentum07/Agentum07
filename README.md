@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 
 I'm Abhi, CS Undergraduate student at National University of Singapore! I have just gotten into ML and Data Science and am learning the basics right now.
 If you have any datasets/advice for me on how to practice, drop me an email or text me at [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/)
+
+## Current Projects
+1. **SmartNus**
+Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp)
+
+## Past Projects
+
+1. **Bhutu - personal assistant chatbot**
+Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. Done as the Independent Project under CS2103T (Software Engineering).
