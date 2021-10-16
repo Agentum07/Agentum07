@@ -20,9 +20,11 @@ If you have any datasets/advice for me on how to practice, drop me an email or t
 
 ## Current Projects
 1. **SmartNus**
+
 Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp)
 
 ## Past Projects
 
 1. **Bhutu - personal assistant chatbot**
-Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. Done as the Independent Project under CS2103T (Software Engineering).
+
+Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The excecutable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release)
