@@ -27,4 +27,4 @@ Modified an AddressBook desktop app into an app to store different types questio
 
 1. **Bhutu - personal assistant chatbot**
 
-Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The excecutable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release).
+Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The executable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release).
