@@ -25,6 +25,10 @@ Modified an AddressBook desktop app into an app to store different types questio
 
 ## Past Projects
 
-1. **Bhutu - personal assistant chatbot**
+1. **Movie Recommendation System**
+Machine Learning Project
+Designed a recommendation system that suggests similar movies to the ones entered. Used Natural Language Processing to develop the model. Trained on 4000 movie names and descriptions. The git repository can be found [here](https://github.com/Agentum07/movie-recommendation-system)
 
+3. **Bhutu - personal assistant chatbot**
+Software Engineering Project
 Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The executable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release).
