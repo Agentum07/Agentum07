@@ -23,7 +23,7 @@ If you have any datasets/advice for me on how to practice, drop me an email or t
 
 Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp).
 
-## Past Projects
+## Recent Projects
 
 1. **Movie Recommendation System**
 
