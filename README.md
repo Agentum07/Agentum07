@@ -30,6 +30,7 @@ Modified an AddressBook desktop app into an app to store different types questio
 Designed a recommendation system that suggests similar movies to the ones entered. Used Natural Language Processing to develop the model. Trained on 4000 movie names and descriptions. The git repository can be found [here](https://github.com/Agentum07/movie-recommendation-system)
 
 2. **Product Recommendation Rating**
+
 Designed a recommendation rating system that predicts the ratings of commericial products based on product descriptions using Natural Language Processing. Trained on over 22,000 entries. The git repository can be found [here](https://github.com/Agentum07/product-recommendation-ratings)
 
 3. **Bhutu - personal assistant chatbot**
@@ -37,4 +38,5 @@ Designed a recommendation rating system that predicts the ratings of commericial
 Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The executable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release).
 
 4. **TweeterBuddy**
+
 Implemented an android application that mimics the Twitter UI and uses Machine Learning to perform sentiment analysis and detect fake news for a given tweet. The app can be used to post a tweet to Twitter. Done as a 2 member team Project under Orbital (CP2106) - Project Apollo. Used python and flask for the machine learning algorithms and used Flutter to develop the application. Used firebase for database management. Created 2 Machine Learning APIs using Heroku to facilitate 24/7 outputs. The git repository can be found [here](https://github.com/Agentum07/TweeterBuddy)
