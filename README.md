@@ -18,25 +18,25 @@ Here are some ideas to get you started:
 I'm Abhi, CS Undergraduate student at National University of Singapore! I have just gotten into ML and Data Science and am learning the basics right now.
 If you have any datasets/advice for me on how to practice, drop me an email or text me at [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/).
 
-## Current Projects
-1. **SmartNus**
-
-Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp).
-
 ## Recent Projects
 
-1. **Movie Recommendation System**
+1. **SmartNus**
+
+Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp) and the executable product is available [here](https://github.com/AY2122S1-CS2103T-F12-1/tp/releases).
+
+
+2. **Movie Recommendation System**
 
 Designed a recommendation system that suggests similar movies to the ones entered. Used Natural Language Processing to develop the model. Trained on 4000 movie names and descriptions. The git repository can be found [here](https://github.com/Agentum07/movie-recommendation-system).
 
-2. **Product Recommendation Rating**
+3. **Product Recommendation Rating**
 
 Designed a recommendation rating system that predicts the ratings of commericial products based on product descriptions using Natural Language Processing. Trained on over 22,000 entries. The git repository can be found [here](https://github.com/Agentum07/product-recommendation-ratings).
 
-3. **Bhutu - personal assistant chatbot**
+4. **Bhutu - personal assistant chatbot**
 
 Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The executable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release).
 
-4. **TweeterBuddy**
+5. **TweeterBuddy**
 
 Implemented an android application that mimics the Twitter UI and uses Machine Learning to perform sentiment analysis and detect fake news for a given tweet. The app can be used to post a tweet to Twitter. Done as a 2 member team Project under Orbital (CP2106) - Project Apollo. Used python and flask for the machine learning algorithms and used Flutter to develop the application. Used firebase for database management. Created 2 Machine Learning APIs using Heroku to facilitate 24/7 outputs. The git repository can be found [here](https://github.com/Agentum07/TweeterBuddy).
