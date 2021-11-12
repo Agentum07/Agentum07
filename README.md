@@ -22,7 +22,7 @@ If you have any datasets/advice for me on how to practice, drop me an email or t
 
 1. **SmartNus**
 
-Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp) and the executable product is available [here](https://github.com/AY2122S1-CS2103T-F12-1/tp/releases). 
+Modified an AddressBook desktop app into an app to store different types questions for students to read during their revision. Using Java, JavaFX and Gradle in the project. The git repository can be found [here](https://github.com/AY2122S1-CS2103T-F12-1/tp) and the executable product is available [here](https://github.com/AY2122S1-CS2103T-F12-1/tp/releases). This app was written using Software Engineering Principles and Object Oriented Programming Concepts.
 
 Documentation:
 * [User Guide](https://ay2122s1-cs2103t-f12-1.github.io/tp/UserGuide.html)
