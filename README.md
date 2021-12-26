@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Abhi, CS Undergraduate student at National University of Singapore! I am interested in Machine Learning and Software Engineering.
-If you have any datasets/advice for me on how to practice, drop me an email or text me at [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/).
+Currently I am learning Computer Vision and Natural Language Processing.
 
 ## Recent Projects
 
