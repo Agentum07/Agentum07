@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Abhi, CS Undergraduate student at National University of Singapore! I am interested in Machine Learning and Software Engineering.
 Currently I am learning Computer Vision and Natural Language Processing.
-You can reach out to me at my [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/) or via [email](gupta.abhi0710@gmail.com)
+You can reach out to me at my [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/) or via [email](gupta.abhi0710@gmail.com).
 
 ## Recent Projects
 
