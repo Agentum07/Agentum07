@@ -19,6 +19,7 @@ I'm Abhi, CS Undergraduate student at National University of Singapore! I am int
 Currently I am learning Computer Vision and Natural Language Processing.
 You can reach out to me at my [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/) or via [email](gupta.abhi0710@gmail.com).
 
+Currently I am learning Machine Learning. You can track my progress [here](https://github.com/Agentum07/handson-ml).
 ## Recent Projects
 
 1. **SmartNus**
@@ -38,7 +39,7 @@ Designed a recommendation system that suggests similar movies to the ones entere
 
 Designed a recommendation rating system that predicts the ratings of commericial products based on product descriptions using Natural Language Processing. Trained on over 22,000 entries. The git repository can be found [here](https://github.com/Agentum07/product-recommendation-ratings).
 
-4. **Bhutu - personal assistant chatbot**
+4. **Duke - personal assistant chatbot**
 
 Designed a personal assistant chatbot to keep track of tasks like events, deadlines or to-dos using software engineering principles. Added JavaFX GUI and Gradle to automate project builds. The git repository can be found [here](https://github.com/Agentum07/ip). The executable product can be downloaded from [here](https://github.com/Agentum07/ip/releases/tag/A-Release).
 
