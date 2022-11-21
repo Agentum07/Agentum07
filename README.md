@@ -20,7 +20,7 @@ Currently I am learning Computer Vision and Natural Language Processing.
 You can reach out to me at my [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-944149198/) or via [email](gupta.abhi0710@gmail.com).
 
 Currently I am learning Machine Learning. You can track my progress [here](https://github.com/Agentum07/handson-ml).
-## Recent Projects
+## Notable Projects
 
 1. **SmartNus**
 
