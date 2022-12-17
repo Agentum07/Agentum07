@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Abhi, CS Undergraduate student at National University of Singapore! I am interested in Machine Learning and Software Engineering.
 Currently I am learning Computer Vision and Natural Language Processing.
-You can reach out to me at my [LinkedIn](https://www.linkedin.com/in/abhishek-g-944149198) or via [email](gupta.abhi0710@gmail.com). You can also track my learning journey on [Kaggle](https://www.kaggle.com/guptaabhishek).
+You can reach out to me at my [LinkedIn](https://www.linkedin.com/in/abhishek-g-944149198) or via [email](mailto:gupta.abhi0710@gmail.com). You can also track my learning journey on [Kaggle](https://www.kaggle.com/guptaabhishek).
 
 Currently I am learning Machine Learning. You can track my progress [here](https://github.com/Agentum07/handson-ml).
 ## Notable Projects
