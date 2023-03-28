@@ -19,7 +19,7 @@ I am a junior at National University of Singapore pursuing a Computer Science Ma
 I'm always open and looking to collaborate on any interesting projects!
 
 
-Currently I am learning Computer Vision.
+Currently I am learning Deep Learning from this book.
 
 #### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/abhishek-g-944149198) 
