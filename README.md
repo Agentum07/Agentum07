@@ -19,7 +19,7 @@ I am a junior at National University of Singapore pursuing a Computer Science Ma
 I'm always open and looking to collaborate on any interesting projects!
 
 
-Currently I am learning Deep Learning from [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).
+Currently I am learning Web Development from [The Odin Project](https://www.theodinproject.com/dashboard).
 
 #### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/abhishek-g-944149198) 
