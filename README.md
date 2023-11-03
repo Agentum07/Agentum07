@@ -19,7 +19,7 @@ I am a junior at National University of Singapore pursuing a Computer Science Ma
 I'm always open and looking to collaborate on any interesting projects!
 
 
-Currently I am learning Web Development from [The Odin Project](https://www.theodinproject.com/dashboard).
+Currently I am learning Web Development from [The Odin Project](https://www.theodinproject.com/dashboard). You can track my assignments [here](https://github.com/Agentum07/my-odin-projects).
 
 #### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/abhishek-g-944149198) 
