@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a junior at National University of Singapore pursuing a Computer Science Major with a concentration in Artificial Intelligence and Information Retrieval. 
+I am a senior at National University of Singapore pursuing a Computer Science Major with a concentration in Artificial Intelligence and Information Retrieval. 
 
 I'm always open and looking to collaborate on any interesting projects!
 
